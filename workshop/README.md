@@ -9,6 +9,7 @@
 1. [Install CLI Tools](pre-work/TOOLS-CLI.md)
 1. [Install Jenkins on OpenShift 4.3](jenkins/SETUP_OCP43.md)
 1. [Install Jenkins on OpenShift 3.11](jenkins/SETUP_OCP311.md)
+1. [Web-Terminal Client Environment Instructions](pre-work/WEBTERMINAL.md)
 
 ## Credits
 
